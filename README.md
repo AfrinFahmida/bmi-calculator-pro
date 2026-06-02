@@ -1,37 +1,24 @@
 # BMI Calculator Pro
 
-A modern and responsive BMI Calculator built with Flutter Web.
+A modern BMI Calculator built with Flutter Web.
+
+## Live Demo
+https://afrinfahmida.github.io/bmi-calculator-pro/
 
 ## Features
-
 - Gender Selection
 - Height Slider
 - Weight Slider
 - Age Selector
 - BMI Calculation
-- BMI Category Detection
-- Ideal Weight Range
-- Dynamic Health Tips
-- Responsive Web Design
-- Modern Dark UI
+- Health Category Detection
+- Health Tips
+- Responsive Design
 
-## Technologies Used
-
+## Technologies
 - Flutter
 - Dart
-- Material Design
-
-## BMI Categories
-
-- Underweight
-- Normal
-- Overweight
-- Obese
+- GitHub Pages
 
 ## Author
-
 Afrin Fahmida
-
-## Screenshots
-
-(Add screenshots here)
